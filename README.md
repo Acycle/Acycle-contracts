@@ -31,7 +31,7 @@ There exists three types of assets in the ACycle Cash system.
 - **ACycle Cash ($ACC)**: a stablecoin, which the protocol aims to keep value-pegged to 1 US Dollar. 
 - **ACycle Bonds ($ACB)**: IOUs issued by the system to buy back ACycle Cash when price($ACC) < $1. Bonds are sold at a meaningful discount to price($ACC), and redeemed at $1 when price($ACC) normalizes to $1. 
 - **ACycle Funds ($ACF)**: receives surplus seigniorage (seigniorage left remaining after all the bonds have been redeemed).
-- **ACycle Goverance ($FBG)**: the ACycle governance token,which can accelerate the speed of mining and get more priority in boardroom.
+- **ACycle Goverance ($ACG)**: the ACycle governance token,which can accelerate the speed of mining and get more priority in boardroom.
 
 ### Stability Mechanism
 

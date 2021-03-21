@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="100" src="./acycle.ico" alt="acycle"></a></p>
+<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="100" src="./acycle.svg" alt="acycle"></a></p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
